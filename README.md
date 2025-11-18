@@ -40,6 +40,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS · Build the website you always wanted, visually on your Mac. | 50% OFF - NO CODE REQUIRED | [Get Deal](https://sitely.app/store) | Nov 14 - Dec 5 |
+| [Savvyshot](https://savvyshot.app) | Snap and beautify screenshots instantly on Windows and Mac. | 50% OFF with code **CYBER2025** | [Get Deal](https://savvyshot.app/pricing) | Nov 18 - Dec 5 |
 
 ## 📚 Courses & Learning
 
